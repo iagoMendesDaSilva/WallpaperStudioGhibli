@@ -1,9 +1,5 @@
-# WallpaperStudioGhibli
-
+# Wallpaper Studio Ghibli
 
 Wallpaper Studio Ghibli is a simple wallpaper app that uses Studio Ghibli API.
 
-<div>
-<img src="/src/demonstration/home.png" width="250"/>
-<img src="/src/demonstration/wallpaper.png" width="250"/>
-</div>
+<img src="/src/demonstration/mockup.png"/><br>
